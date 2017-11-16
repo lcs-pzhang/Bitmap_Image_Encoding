@@ -32,7 +32,11 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that... the number of times of it being looped are different each time.
+
+// The number string is always different
+
+// The characters are only 1s and 0s. 
 /*:
  Now, **remember to commit and push your work**.
  */
