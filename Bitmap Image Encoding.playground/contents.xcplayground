@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Reminder'/>
+        <page name='Use Source Control'/>
+        <page name='Getting Started'/>
+        <page name='Iterating Over a String'/>
+        <page name='Preparing to Render the Bitmap'/>
+        <page name='Rendering the Simple Bitmap'/>
+        <page name='Planning Exercise'/>
+    </pages>
+</playground>
