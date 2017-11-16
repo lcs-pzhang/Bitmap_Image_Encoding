@@ -33,3 +33,6 @@ for character in encodedBitmap {
 }
 
 // I notice that...
+/*:
+ Now, **remember to commit and push your work**.
+ */

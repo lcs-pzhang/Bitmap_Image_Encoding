@@ -53,7 +53,9 @@ for character in encodedBitmap {
  */
 // I notice that...
 // I know this because...
-
+/*:
+ Now, **remember to commit and push your work**.
+ */
 /*:
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.

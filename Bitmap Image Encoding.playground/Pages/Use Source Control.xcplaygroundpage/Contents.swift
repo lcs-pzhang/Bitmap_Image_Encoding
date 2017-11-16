@@ -4,8 +4,7 @@
  
  On each page, you will be answering questions about what you see.
  
- Please, be sure to *commit your work after completing each page*.
-  
- ![timeline](timeline.png "Timeline")
+ Please, be sure to *commit and push your work after completing each page*.
+ 
+ ![remember_to_commit](remember_to_commit.png "Remember to commit")
  */
-
