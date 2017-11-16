@@ -51,8 +51,11 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that... the squares match the bitmap string.
+
+// Each string is different each time.
+
+// I know this because... it follows the commands for when a square is drawn white and black
 /*:
  Now, **remember to commit and push your work**.
  */
